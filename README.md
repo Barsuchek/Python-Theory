@@ -1,2 +1,7 @@
 # Python-Theory
-In this repository I will publish my knowledge of the Python programming language
+В данном репозитория я публикую свои знания по изучению языка программирования Python.
+
+Программы и проекты для тренировок вы сможете найти в папке "ProjectsForTraining", название топика = номеру темы.
+
+## Темы:
+1. [Назначения окон IDLE]()
