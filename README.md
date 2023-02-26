@@ -3,3 +3,4 @@
 
 ## Темы:
 1. [Назначения окон IDLE, запуск первой программы](https://github.com/Barsuchek/Python-Theory/blob/main/Info/НазначениеОкон.md)
+2. [Стандартная библиотека](https://github.com/Barsuchek/Python-Theory/blob/main/Info/СтандартнаяБиблиотека.md)
